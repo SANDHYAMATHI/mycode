@@ -11,8 +11,7 @@ Create a Spring MVC web application that will retrieve users based on their user
 As a part of developing an ecommerce web application, the admin backend requires a module that can retrieve users based on their user ID and update their information as required.
 
 
-### You must use the following:
- 
+### You must use the follow
 
  *  Eclipse as the IDE
  *  Apache Tomcat as the web server (Embedded in jar is fine)
@@ -38,7 +37,5 @@ Here is a potential list of JSPs for the project. (feel free to modify)
  * Edit form for User
  * Confirmation JSP
 
-### Info
 
- * Due Date: 2021-03-16
  
