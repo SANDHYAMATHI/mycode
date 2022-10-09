@@ -1,0 +1,27 @@
+Started by user Sandhya Mathi
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /var/lib/jenkins/workspace/jenkins
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (verify setup)
+[Pipeline] echo
+verify done successfully
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (build application)
+[Pipeline] echo
+test the application successfully
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Deploy)
+[Pipeline] echo
+deploy function successfully
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
